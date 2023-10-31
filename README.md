@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=34&duration=500&color=2A79F7&multiline=true&repeat=false&random=false&width=1400&height=140&lines=I+am+a+young+tech+enthusiast+with+a+curiosity+that+drives+the+growth;of+my+knowledge+and+understanding+of+all+things+technological.;I+take+pride+in+making+things+work+when+they+really+aren't+meant+to+%F0%9F%98%81.)]()
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=27&duration=1500&color=42F754&multiline=true&repeat=false&random=false&width=1000&height=70&lines=My+current+device+is+a+2018+MacBook+Pro+13%22+with+a+Touchbar.;It+has+a+pentaboot+setup+using+rEFInd.)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=27&duration=2500&color=42F754&multiline=true&repeat=false&random=false&width=1000&height=70&lines=My+current+device+is+a+2018+MacBook+Pro+13%22+with+a+Touchbar.;It+has+a+pentaboot+setup+using+rEFInd.)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=23&color=49C9FF&multiline=true&repeat=false&random=false&width=1000&height=40&lines=Specs%3A)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=23&duration=500&color=4090FF&multiline=true&repeat=false&random=false&width=1000&height=120&lines=CPU%3A+Intel+Core+i5-8259+2.3GHz+(Turbo+up+to+3.8GHz);GPU%3A+Intel+Iris+Plus+Graphics+655+iGPU;RAM%3A+8GB+LPDDR3+at+2133MHz;HDD%3A+256GB+SSD)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=18&duration=800&color=3AFFCA&multiline=true&repeat=false&random=false&width=1000&height=30&lines=Yes+I+did+squeeze+5+OSs+onto+my+tiny+drive....)]()
