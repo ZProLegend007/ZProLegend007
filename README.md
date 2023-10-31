@@ -15,5 +15,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=9000&color=FF893A&multiline=true&repeat=false&random=false&width=1000&height=30&lines=Brunch-mac%2FchromeOS)]()
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=28&duration=3000&color=FF5353&multiline=true&repeat=false&random=false&width=1000&lines=Repositories+I+am+currently+working+on%3A)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=28&duration=3000&color=FF5353&multiline=true&repeat=false&random=false&width=1000&lines=Projects+I+am+currently+working+on%3A)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=25&duration=3000&color=FF951B&multiline=true&repeat=false&random=false&width=1000&lines=Brunch-mac+(click+me!))](https://github.com/ZProLegend007/brunch-mac)
