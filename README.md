@@ -22,7 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=18&pause=0&color=7FF771&repeat=false&random=false&width=435&height=30&lines=Things+I've+dabbled+in%3A)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=56F79B&random=false&width=435&height=20&lines=Multi+Booting;Partitioning;Bootloaders)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=D0F730&random=false&width=435&height=20&lines=Linux;Kernel+Building;Shell+scripting)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F73838&random=false&width=435&height=20&lines=Cybersecurity+and+Pen-testing+(Kali);Information+gathering;Wireless+attacks;Bettercap)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F73838&random=false&width=435&height=20&lines=Cybersecurity+and+Pen-testing+(Kali);Information+gathering;Wireless+attacks;Bettercap;DOS+attacks)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F7C61C&random=false&width=435&height=20&lines=HTML+Website+editing;Python+(ages+ago);Bash+(Linux+terminal))]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=247AF7&random=false&width=435&height=20&lines=Apple+Developer+testing;iOS;MacOS;WatchOS)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F04FF7&random=false&width=435&height=20&lines=chromeOS+tinkering;Brunch-mac+framework)]()
