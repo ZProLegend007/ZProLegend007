@@ -32,5 +32,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=386CF7&random=false&width=500&height=20&lines=Lua+scripting;Roblox+scripting+(ha))]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F76DEA&random=false&width=500&height=20&lines=Hardware+fixes+and+mods;iPhone+and+iPad+repairs;PC+and+Laptop+repairs;Soldered+LED+strips+on+laptops)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=27B111&random=false&width=500&height=20&lines=Android+Tweaks;Android+OS+Flashing;Custom+LineageOS+installs;ADB)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=C2F791&random=false&width=500&height=20&lines=Photo+and+video+editing;Logo+designing;CAD+and+3D+printing;Fusion360;Pixlr+editing)]()
 
 
