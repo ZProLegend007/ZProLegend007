@@ -30,7 +30,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F7A834&random=false&width=500&height=20&lines=T2-Kernel;T2+Macbook+OS+installations)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=4FF7F6&random=false&width=500&height=20&lines=Windows+11+on+MacOS+Bootcamp)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=386CF7&random=false&width=500&height=20&lines=Lua+scripting;Roblox+scripting+(ha))]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F76DEA&random=false&width=500&height=20&lines=Hardware+fixes;iPhone+and+iPad+repairs;PC+and+Laptop+repairs)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F76DEA&random=false&width=500&height=20&lines=Hardware+fixes+and+mods;iPhone+and+iPad+repairs;PC+and+Laptop+repairs;Soldered+LED+strips+on+Chromebooks)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=27B111&random=false&width=500&height=20&lines=Android+Tweaks;Android+OS+Flashing;Custom+LineageOS+installs;ADB)]()
 
 
