@@ -19,18 +19,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=25&duration=3000&color=FF951B&multiline=true&repeat=false&random=false&width=1000&lines=Brunch-mac+(click+me!))](https://github.com/ZProLegend007/brunch-mac)
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=18&pause=0&color=7FF771&repeat=false&random=false&width=435&height=30&lines=Things+I've+dabbled+in%3A)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=56F79B&random=false&width=435&height=20&lines=Multi+Booting;Partitioning;Bootloaders)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=D0F730&random=false&width=435&height=20&lines=Linux;Kernel+Building;Shell+scripting)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F73838&random=false&width=435&height=20&lines=Cybersecurity+and+Pen-testing+(Kali);Information+gathering;Wireless+attacks;Bettercap;DOS+attacks)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F7C61C&random=false&width=435&height=20&lines=HTML+Website+editing;Python+(ages+ago);Bash+(Linux+terminal))]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=247AF7&random=false&width=435&height=20&lines=Apple+Developer+testing;iOS;MacOS;WatchOS)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F04FF7&random=false&width=435&height=20&lines=chromeOS+tinkering;Brunch-mac+framework)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=18&pause=0&color=7FF771&repeat=false&random=false&width=500&height=30&lines=Things+I've+dabbled+in%3A)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=56F79B&random=false&width=500&height=20&lines=Multi+Booting;Partitioning;Bootloaders)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=D0F730&random=false&width=500&height=20&lines=Linux;Kernel+Building;Shell+scripting)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F73838&random=false&width=500&height=20&lines=Cybersecurity+and+Pen-testing+(Kali);Information+gathering;Wireless+attacks;Bettercap;DOS+attacks)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F7C61C&random=false&width=500&height=20&lines=HTML+Website+editing;Python+(ages+ago);Bash+(Linux+terminal))]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=247AF7&random=false&width=500&height=20&lines=Apple+Developer+testing;iOS;MacOS;WatchOS)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F04FF7&random=false&width=500&height=20&lines=chromeOS+tinkering;Brunch-mac+framework)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=43F75A&random=false&width=500&height=20&lines=Firmware+flashing;MrChromebox+Full-UEFI+Firmware+flashing+for+Chromebooks;Self-made+Suzy-Q+Cable)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F7A834&random=false&width=500&height=20&lines=T2-Kernel;T2+Macbook+OS+installations)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=4FF7F6&random=false&width=500&height=20&lines=Windows+11+on+MacOS+Bootcamp)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=386CF7&random=false&width=500&height=20&lines=Lua+scripting;Roblox+scripting+(ha))]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=F76DEA&random=false&width=500&height=20&lines=Hardware+fixes;iPhone+and+iPad+repairs;PC+and+Laptop+repairs)]()
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=1500&pause=1500&color=27B111&random=false&width=435&lines=Android+Tweaks;Android+OS+Flashing;Custom+LineageOS+installs;ADB)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=27B111&random=false&width=500&height=20&lines=Android+Tweaks;Android+OS+Flashing;Custom+LineageOS+installs;ADB)]()
 
 
