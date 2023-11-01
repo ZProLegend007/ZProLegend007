@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=36&duration=3000&pause=3000&color=15D2FF&random=false&width=540&lines=Hello%2C+I+am+ZProLegend007!;You+can+call+me+Zac.)]()
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=34&duration=500&color=2A79F7&multiline=true&repeat=false&random=false&width=1400&height=140&lines=I+am+a+young+tech+enthusiast+with+a+curiosity+that+drives+the+growth;of+my+knowledge+and+understanding+of+all+things+technological.;I+take+pride+in+making+things+work+when+they+really+aren't+meant+to+%F0%9F%98%81.)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&duration=1500&pause=1500&color=7CF756&repeat=false&random=false&width=550&height=30&lines=Yes+my+username+was+made+in+primary+school...)]()
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=27&duration=1500&color=42F754&multiline=true&repeat=false&random=false&width=1000&height=70&lines=My+current+device+is+a+2018+MacBook+Pro+13%22+with+a+Touchbar.;It+has+a+pentaboot+setup+using+rEFInd.)]()
