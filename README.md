@@ -35,6 +35,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=27B111&random=false&width=500&height=22&lines=Android+Tweaks;Android+OS+Flashing;Custom+LineageOS+installs;ADB)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=15&duration=1500&pause=1500&color=C2F791&random=false&width=500&height=22&lines=Photo+and+video+editing;Logo+designing;CAD+and+3D+printing;Fusion360;Pixlr+editing)]()
 
-<meta name="google-site-verification" content="-4PAzE8QNBVNoQaQzr4TgjRZyo7zgy0N2P6gDS3Kd60" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ND94GEFEFB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-ND94GEFEFB');
+</script>
 
