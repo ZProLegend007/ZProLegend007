@@ -37,4 +37,4 @@
 
 <hr>
 
-The cool texts occasionally doesn't work well for some people... just reload and all should be well :)
+The cool text occasionally doesn't work well for some people... just reload and all should be well :)
